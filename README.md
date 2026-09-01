@@ -18,7 +18,7 @@ Designed to run natively across **x86_64**, **AArch64 (ARM64)**, and **RISC-V 64
 
 ## ⚡ Verified Bare-Metal Performance Benchmarks
 
-All metrics measured on physical **AMD EPYC 7763 (64-Core)** & **Intel Core i9-14900K (24-Core)** hardware using cycle-accurate `RDTSC` instruction timers:
+All metrics derived from empirical execution on **Intel(R) Core(TM) i7-6700HQ CPU @ 2.60 GHz** and cycle-accurate `RDTSC` hardware instruction measurements:
 
 | Architectural Metric | 🌙 **NyxOS** | 🐧 **Linux Baseline** | 🪟 **Windows 11 Baseline** | Performance Advantage |
 | :--- | :--- | :--- | :--- | :---: |
