@@ -4,7 +4,7 @@
 [![Live Platform](https://img.shields.io/badge/Official_Platform-nyx.9jaoncloud.com.ng-8b5cf6?style=for-the-badge&logo=firefox)](https://nyx.9jaoncloud.com.ng/nyxos.html)
 [![120 FPS Desktop](https://img.shields.io/badge/Live_120_FPS_Desktop-Test--Drive_in_Browser-38bdf8?style=for-the-badge&logo=vulkan)](https://nyx.9jaoncloud.com.ng/os-preview.html)
 [![Package Hub](https://img.shields.io/badge/Sovereign_Package_Hub-Browse_Packages-10b981?style=for-the-badge&logo=box)](https://nyx.9jaoncloud.com.ng/packages.html)
-[![Scientific Benchmarks](https://img.shields.io/badge/Empirical_Benchmarks-Peer--Reviewed_Proof-f59e0b?style=for-the-badge&logo=speedtest)](https://nyx.9jaoncloud.com.ng/benchmarks.html)
+[![Scientific Benchmarks](https://img.shields.io/badge/Empirical_Benchmarks-Peer--Reviewed_Proof-f59e0b?style=for-the-badge&logo=speedtest)](https://nyx.9jaoncloud.com.ng/nyxos-benchmarks.html)
 
 ---
 
@@ -29,7 +29,7 @@ All metrics derived from empirical execution on **Intel(R) Core(TM) i7-6700HQ CP
 | **Display Presentation Jitter** | **0.04 ms** | 2.40 ms | 1.80 ms | **45x Smoother Pacing** |
 | **Garbage Collection Pause** | **0.00 ms** | Variable pauses | Variable pauses | **Zero Stop-the-World Latency** |
 
-> 🔬 **Read the complete scientific methodology and mathematical proofs**: [https://nyx.9jaoncloud.com.ng/benchmarks.html](https://nyx.9jaoncloud.com.ng/benchmarks.html)
+> 🔬 **Read the complete scientific methodology and mathematical proofs**: [https://nyx.9jaoncloud.com.ng/nyxos-benchmarks.html](https://nyx.9jaoncloud.com.ng/nyxos-benchmarks.html)
 
 ---
 
